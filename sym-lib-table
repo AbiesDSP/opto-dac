@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name audio-digital)(type Legacy)(uri ${ABIES_SYMBOL_DIR}/audio-digital.lib)(options "")(descr ""))
+  (lib (name audio-amplifier)(type Legacy)(uri ${ABIES_SYMBOL_DIR}/audio-amplifier.lib)(options "")(descr ""))
+  (lib (name psoc)(type Legacy)(uri ${ABIES_SYMBOL_DIR}/psoc.lib)(options "")(descr ""))
+)
